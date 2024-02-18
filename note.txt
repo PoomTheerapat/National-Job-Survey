@@ -1,3 +1,13 @@
 Update 18-02-2024
 
 - Dicide to deal with NaN values in each columns
+
+อาชีพในปัจจุบัน ท่านทำมานานเท่าใด
+
+Update 18-02-2024
+
+- Fix 6 year problem
+
+
+
+
