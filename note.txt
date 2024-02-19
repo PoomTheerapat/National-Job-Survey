@@ -7,7 +7,11 @@ Update 18-02-2024
 Update 18-02-2024
 
 - Fix 6 year problem
+6             4
+6 ปี          1
+ุ6            1
+6ปี           1
 
+Update 20-02-2024
 
-
-
+- Completed Fixed 6 Years
